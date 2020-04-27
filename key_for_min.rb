@@ -4,5 +4,5 @@
 def key_for_min_value(name_hash)
   # key_for_min_value.map do |item, price|
   #   value
-  end
+  # end
 end
